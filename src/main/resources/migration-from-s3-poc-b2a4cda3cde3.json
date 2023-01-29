@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "migration-from-s3-poc",
+  "private_key_id": "b2a4cda3cde3128fbae72570ed2ad89fabcb1811",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDGsIUqnSTkuRsL\n9t4nSe176xkqclLW8Kr4GOj62geomhJhA1b00etfuJy/NTw45UPXohZ93JG+n/Ha\nS56t0ZIijg+zO69agTulSUjMWR9b0688dz99i7BrQa0bANngNLPEunoPJIlvAhgw\nZq58VpI4Q4B2sf6HS3aG5/joBbTbPdKZc0b0Gh/POblXnBBBr9JEbdtR/E/qDl6I\ni8SVMwtSNWv2XrLnhe4B2IprxE5G56A9xcQ3NbyG9r3d3KCxKSmPnFg2uv6/6Tb1\nEw4PseRTe+J+rEP8jxLYfkUsWh2WJReLNrOgGb5L3zMragmYthsSHGXyLZMy5yId\nJUmb+l+HAgMBAAECggEAP/s35rET4FN7Ui78+snjn7PlNrX51x1I8PuUirMLJE/4\n+ySIK+4tTXW1hB0wd2HcpuObOox8olX/G7yeLHsABACbLaxam1piSqd+uc85OejA\n1UfROixxcxiDFd8ASiKugPtLsvShDQ4vm+Z06bU3AMc75v0KaabzVB3/GTg9NRvy\nByiNlcrUiDcfYJHzvZEGeAjBtJx2+J3csfrgkoS+FByEuJkD7uLneaxeBQmt7o7f\nT1Bfp56DZvcZ6QXoMemlcepHftQjU+bA15PaKJthnQChfL1U8KcYLsyc7DpqIgGo\nA/IjjrTgmE3YzY3Obvsd5Ul86DSu3cYlkR7rqvKdgQKBgQDquIKb5RAb0Px/seP4\nSXxCTy7J6g3WcbHbQvfwYV8JLJ9ZoWUhis+klFygpkGhmWrTnTZTGOfrebp17uvt\nVCqpZI0IQWZJh+zKpNUREEUlhpeP+Y5rRydI5vF6rFEWCT4rG72XpJarS2QgUXgB\nFOK+bBqgq2e4gA//09RSpOmCGwKBgQDYs8ig/H+zaQoWnlPkit95VYXKmKtfygNc\n2DcGTu+PuPaemCf/HoV+dGyuXTFQ+A4yKAlXNTp35kpwTUS5rFpoiyLNCJkxuYNz\nIHCfr2Tbnhb/Se8+0pEFppMNvapup1lQIL6yAEMIv95utcPjrXA4vNHN/WOPjq3y\nc/X6JRXPBQKBgQDKJoy+LQK5ojzE0XWQceGlzkJyvbSbOyI9v6iAC6xo31iCPkE2\nKTH6AZjg9y9ROStLA3w1Bx8+q4EObu4cYT+40hOwx3qL25fxUxL59jRHRGqmIf0p\noYdQ/y18RIo1W1KCmAqqXqMw9eZO+ztKWy2JaNtqAxV6Tjj5UPvtDYDafwKBgQCV\nUjTyMWsxTjTkZw750XOx4OuDMfYM2F++z0IDN8s9Zr+Rgtk0o2xrOYBWGeNMntDx\nYMMm84epbOdoQOYVZx0ZIp7FV6JwMBvS7cyNTEecSXAhU2nnCSNjGGgGNOZGv0v8\nucONVj7avZNhCCDGNxG4FuwfG/ZJypA0HBGn33wKnQKBgBaZ8ezVKDsXN2WWP2zS\ntAEI1/3n84kjBHI651+ywTHi5rbcNw41lzCSKHEJw2kE6Lbzgfs/TeVylsj/mvDC\nABubSBOUAU1ZK2IrxRarDxlbXPWoDUOaHmZ7PTJMEVmnSLEClqfKvEZWOVVSbmCQ\ncjLV4Afc2N+/ST5TSBpOzAcE\n-----END PRIVATE KEY-----\n",
+  "client_email": "api-to-gcp@migration-from-s3-poc.iam.gserviceaccount.com",
+  "client_id": "101708643601439732365",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/api-to-gcp%40migration-from-s3-poc.iam.gserviceaccount.com"
+}
